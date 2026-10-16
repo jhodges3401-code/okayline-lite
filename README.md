@@ -1,5 +1,7 @@
 # Okayline Lite: a free status page on GitHub Pages
 
+> **Need more than Lite?** [Okayline Pro](https://jhodges6.gumroad.com/l/bcmhvk) adds the full feature set below for **$99 once**. No subscription, 14-day refund. [See the live demo →](https://jhodges3401-code.github.io/okayline-demo/)
+
 A free, open-source status page you host yourself. Edit one JSON file, push, and GitHub Pages publishes it. No server, no monthly bill, no dependencies.
 
 **Live demo of the full version:** https://jhodges3401-code.github.io/okayline-demo/
