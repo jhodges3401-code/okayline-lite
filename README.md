@@ -1,3 +1,14 @@
+<p align="center"><a href="https://jhodges3401-code.github.io/okayline-demo/"><img src="docs/banner.svg" alt="Okayline Lite: a free status page on GitHub Pages" width="100%"></a></p>
+
+<p align="center">
+<a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0f766e"></a>
+<a href="https://jhodges3401-code.github.io/okayline-demo/"><img alt="Live demo" src="https://img.shields.io/badge/live%20demo-online-14b8a6"></a>
+<img alt="Price" src="https://img.shields.io/badge/Lite-free%20%C2%B7%20Pro%20%2499%20once-0f172a">
+<a href="https://github.com/jhodges3401-code/okayline-lite/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jhodges3401-code/okayline-lite?style=flat&color=0f766e"></a>
+</p>
+
+<p align="center"><b><a href="https://jhodges3401-code.github.io/okayline-demo/">Live demo</a></b> · <a href="#quick-start">Quick start</a> · <a href="#lite-vs-pro">Lite vs Pro</a> · ⭐ <b>Star this repo</b> if it saves you a subscription</p>
+
 # Okayline Lite: a free status page on GitHub Pages
 
 > **Need more than Lite?** [Okayline Pro](https://jhodges6.gumroad.com/l/bcmhvk) adds the full feature set below for **$99 once**. No subscription, 14-day refund. [See the live demo →](https://jhodges3401-code.github.io/okayline-demo/)
@@ -14,7 +25,11 @@ A free, open-source status page you host yourself. Edit one JSON file, push, and
 
 Build locally: `node build.mjs` (Node 18+).
 
-## Lite vs Okayline Pro
+
+## See it in action
+<p align="center"><a href="https://jhodges3401-code.github.io/okayline-demo/"><img src="docs/demo.svg" alt="Animated tour of the live demo" width="100%"></a></p>
+
+## Lite vs Pro<a id="lite-vs-pro"></a>
 | | Lite (free, MIT) | [Okayline Pro ($99 one-time)](https://jhodges6.gumroad.com/l/bcmhvk) |
 |---|---|---|
 | Static status page with manual statuses | ✅ | ✅ |
