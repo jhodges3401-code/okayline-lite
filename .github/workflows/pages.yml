@@ -20,6 +20,8 @@ jobs:
         with:
           path: dist
   deploy:
+    # Runs in your copy. Skipped in the source repo until Pages is enabled there (repo variable PAGES_ENABLED=true).
+    if: github.repository != 'jhodges3401-code/okayline-lite' || vars.PAGES_ENABLED == 'true'
     needs: build
     runs-on: ubuntu-latest
     environment:
