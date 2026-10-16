@@ -1,0 +1,9 @@
+{
+  "title": "Acme Status",
+  "components": [
+    { "name": "Website", "status": "operational" },
+    { "name": "API", "status": "operational" },
+    { "name": "Dashboard", "status": "degraded" }
+  ],
+  "notice": "Dashboard is loading slowly. We're looking into it."
+}
